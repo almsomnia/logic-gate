@@ -1,0 +1,20 @@
+{
+  "name": "@almsomnia/logic-gate",
+  "version": "1.0.0",
+  "description": "A library to work with logical gates.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Riva Almero",
+    "email": "rvalms@proton.me"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "typescript": "^5.7.3"
+  }
+}
